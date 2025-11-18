@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Downloads](https://img.shields.io/github/downloads/war100ck/Steam-Account-Manager/total?style=for-the-badge&logo=github)](https://github.com/war100ck/Steam-Account-Manager/releases)
-[![Downloads](https://img.shields.io/github/downloads/war100ck/Steam-Account-Manager/total?style=for-the-badge&color=0078D6&label=Steam%20Account%20Manager%20Downloads)](https://github.com/war100ck/Steam-Account-Manager/releases)
 [![License](https://img.shields.io/github/license/war100ck/Steam-Account-Manager?style=for-the-badge&logo=opensourceinitiative)](https://github.com/war100ck/Steam-Account-Manager/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![Tkinter](https://img.shields.io/badge/Toolkit-Tkinter-4A9CD4?style=for-the-badge&logo=python)](https://docs.python.org/3/library/tkinter.html)
